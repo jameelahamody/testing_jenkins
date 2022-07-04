@@ -18,7 +18,7 @@ def driver():
     edge_driver_binary = "msedgedriver.exe"
     edge_options = EdgeOptions()
 
-    browser_name = 'firefox'
+    browser_name = 'chrome'
     # if isinstance(browserName,list):
     #     for browser_name in browserName:
     if browser_name == "firefox-webdriver":
